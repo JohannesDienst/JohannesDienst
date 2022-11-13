@@ -6,7 +6,7 @@
 
  ---
 
-[![Mastodon: JohannesDienst](https://img.shields.io/badge/-JohannesDienst-blue?style=flat-square&logo=Mastodon&logoColor=white&link=https://mastodon.social/@JohannesDienst/)](https://mastodon.social/@JohannesDienst)
+[![Mastodon: JohannesDienst](https://img.shields.io/badge/-JohannesDienst-blueviolet?style=flat-square&logo=Mastodon&logoColor=white&link=https://mastodon.social/@JohannesDienst/)](https://mastodon.social/@JohannesDienst)
 [![Twitter: JohannesDienst](https://img.shields.io/twitter/follow/JohannesDienst?style=social)](https://twitter.com/JohannesDienst)
 [![Polywork Badge](https://img.shields.io/badge/-JohannesDienst-ff69b4?style=flat-squarec&logo=polywork&logoColor=white&link=https://www.polywork.com/johannesdienst)](https://www.polywork.com/johannesdienst)
 [![Youtube Badge](https://img.shields.io/badge/-JohannesDienst-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCF9Nb-vNMDVHjrPPoPwxAGQ)](https://www.youtube.com/channel/UCF9Nb-vNMDVHjrPPoPwxAGQ)
